@@ -1,0 +1,6 @@
+{
+  "name": "Valmius HR — Public Sector Competency & Readiness",
+  "description": "Unified situational awareness, competency governance, and proactive compliance dashboard for public sector unit supervisors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
